@@ -1,7 +1,7 @@
 # 🚌 Bus Stop Alert System for Visually Impaired (Wi-Fi Based)
 
 ## 📘 Project Overview
-This project provides *bus arrival alerts for visually impaired people* without using RFID.  
+This project provides *bus arrival alerts for visually impaired people* .  
 Each bus is equipped with a *Wi-Fi hotspot (SiWG917 board)* that broadcasts the bus details.  
 When a passenger’s phone connects to the bus hotspot, it automatically displays or reads out the *bus number, route, and upcoming stop*.
 
