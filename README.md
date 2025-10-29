@@ -58,3 +58,14 @@ When a passenger’s phone connects to the bus hotspot, it automatically display
 2. Flash the code to your board.  
 3. Open the Serial Monitor (baud: 115200).  
 4. The output will show:
+5. On your mobile, connect to Bus_Hotspot.
+6. Open a browser → visit [http://192.168.4.1](http://192.168.4.1) → bus info appears!
+
+---
+
+### 🗣️ For Voice Output (optional)
+1. Connect your board to the PC via USB.  
+2. Run serial_tts.py:
+```bash
+python serial_tts.py
+Bus Info: 23B | Route: Gandhipuram → Peelamedu → Airport | Next Stop: Peelamedu
