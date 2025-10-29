@@ -1,4 +1,4 @@
-# 🚌 RFID-Free Bus Stop Alert System for Visually Impaired (Wi-Fi Based)
+# 🚌 Bus Stop Alert System for Visually Impaired (Wi-Fi Based)
 
 ## 📘 Project Overview
 This project provides *bus arrival alerts for visually impaired people* without using RFID.  
