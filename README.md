@@ -63,7 +63,7 @@ When a passenger’s phone connects to the bus hotspot, it automatically display
 
 ---
 
-### 🗣️ For Voice Output (optional)
+### 🗣️ For Voice Output 
 1. Connect your board to the PC via USB.  
 2. Run serial_tts.py:
 ```bash
