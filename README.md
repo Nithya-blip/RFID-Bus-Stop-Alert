@@ -2,14 +2,14 @@
 
 ## 📘 Project Overview
 This project provides *bus arrival alerts for visually impaired people* without using RFID.  
-Each bus is equipped with a *Wi-Fi hotspot (ESP / SiWG917 board)* that broadcasts the bus details.  
+Each bus is equipped with a *Wi-Fi hotspot (SiWG917 board)* that broadcasts the bus details.  
 When a passenger’s phone connects to the bus hotspot, it automatically displays or reads out the *bus number, route, and upcoming stop*.
 
 ---
 
 ## ⚙️ System Workflow
 
-1. The *Wi-Fi module (ESP8266 / SiWG917)* acts as a hotspot and web server.  
+1. The *Wi-Fi module (SiWG917)* acts as a hotspot and web server.  
    - SSID: Bus_Hotspot  
    - Password: busalert1
 
@@ -36,8 +36,8 @@ When a passenger’s phone connects to the bus hotspot, it automatically display
 ## 🧩 Components Used
 | Component | Description |
 |------------|-------------|
-| *SiWG917 / ESP8266 Board* | Acts as Wi-Fi hotspot and local web server |
-| *Python (optional)* | Reads serial data and converts it to voice |
+| *SiWG917 Board* | Acts as Wi-Fi hotspot and local web server |
+| *Python  | Reads serial data and converts it to voice |
 | *Android App (Kotlin)* | Displays and speaks bus info (future stage) |
 
 ---
