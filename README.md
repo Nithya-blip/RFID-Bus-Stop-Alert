@@ -54,7 +54,7 @@ When a passenger’s phone connects to the bus hotspot, it automatically display
 ## 🚀 How to Run
 
 ### 🧠 For the Embedded Board
-1. Open main.c in *Simplicity Studio* (for SiWG917) or Arduino IDE (for ESP8266).  
+1. Open main.c in *Simplicity Studio* (for SiWG917).  
 2. Flash the code to your board.  
 3. Open the Serial Monitor (baud: 115200).  
 4. The output will show:
